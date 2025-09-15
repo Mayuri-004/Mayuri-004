@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayuri Bhoir  
 
-💻 **3rd Year IT Engineering Student @**  
+💻 **3rd Year IT Engineering Student**  
 🌐 Passionate about **Tech | Coding**  
 🚀 Exploring **MERN stack + Cloud + IoT/ML**  
 
@@ -41,11 +41,11 @@
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayuri-bhoir-26127a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](YOUR_PORTFOLIO_URL)  
-📧 Email: **yourname@email.com**  
+📧 Email: **mayuribhoir004@gmail.com**  
 
 ---
-⭐️ From [Mayuri Bhoir](https://github.com/mayuribhoir)
+⭐️ From [Mayuri Bhoir](https://github.com/Mayuri-004)
 
 
