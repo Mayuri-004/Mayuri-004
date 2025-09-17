@@ -34,9 +34,8 @@
 
 ---
 
-## 🏆 Achievements 
-- 🥇 Participating in Hackathons & Projects at   
-- 📚 Continuously learning **Cloud, IoT & Machine Learning**  
+## 🏆 Achievements  
+- 📚 learning **Mern stack,Cloud**  
 
 ---
 
